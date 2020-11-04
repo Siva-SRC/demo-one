@@ -8,7 +8,7 @@ export default class Love extends React.Component {
             play: false,
             pause: true
         }
-        this.url = "unswasam.mp3";
+        this.url = "https://youtu.be/mqUYGNZ6kAY";
         this.audio = new Audio(this.url);
     }
     play =() => {
