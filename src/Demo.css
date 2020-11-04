@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     border: black solid 1px;
-    width: 530px;
+    width: 300px;
     padding: 50px;
     margin-left: auto;
     margin-right: auto;
@@ -21,7 +21,7 @@
 .demo__input {
     font-size: large;
     height: 40px;
-    width: 500px;
+    width: 250px;
 }
 
 
