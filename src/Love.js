@@ -8,7 +8,7 @@ export default class Love extends React.Component {
             play: false,
             pause: true
         }
-        this.url = "https://youtu.be/mqUYGNZ6kAY";
+        this.url = "https://quz1yp-a.akamaihd.net/downloads/ringtones/files/mp3/un-swaasam-tamilmp3song-net-19580.mp3";
         this.audio = new Audio(this.url);
     }
     play =() => {
