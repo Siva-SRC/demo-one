@@ -1,0 +1,57 @@
+.demo {
+    display: flex;
+    flex-direction: column;
+    border: black solid 1px;
+    width: 530px;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: black;
+    opacity: 90%;
+}
+
+.demo__label {
+    font-weight: 700;
+    text-align: left;
+    font-size: 20px;
+    color: white;
+}
+
+.demo__input {
+    font-size: large;
+    height: 40px;
+    width: 500px;
+}
+
+
+.demo__checkText {
+    text-align: left;
+    font-size: 20px;
+}
+
+.pCheckMsg {
+    font-size: 15px;
+    text-align: left;
+    color: blue;
+}
+
+.demo__heading {
+    text-align: center;
+    color: white;
+}
+
+
+.demo__button {
+    margin-top: 25px;
+    background-color: green;
+    color: white;
+    border: 0.5px gray solid;
+    height: 30px;
+    width: 70px;
+    border: 1px black;
+}
+
+.text {
+    color: white;
+}
