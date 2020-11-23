@@ -27,7 +27,7 @@ export default class Demo extends React.Component {
         event.preventDefault();
         if(this.state.firstname==="" || this.state.secondname==="" || this.state.mobileno==="") {
             alert("Field cannot be empty")
-        } else if(this.state.firstname==="narmatha" && this.state.secondname=== "govindaraj" && this.state.mobileno==="9566824764") {
+        } else if(this.state.firstname==="narmatha" && this.state.secondname=== "govindaraj" && this.state.mobileno==="1613119") {
             this.setState({
                 match: true
             })
